@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "foD6qotz0KacgQZsZ0YO/EZyRBCPJ9PcZZVC7c8+2hnV0TjY9hd9tpQ+4YFLnTVD1go2ZSrTqJYE/AmcPraLkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OMEN\\Desktop\\WebConsumer\\WebConsumer\\WebConsumer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OMEN\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
